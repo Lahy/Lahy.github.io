@@ -5,9 +5,9 @@
   <subtitle>Meditation space</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://Langery-stone.github.io/"/>
+  <link href="https://Langery.github.io/"/>
   <updated>2020-08-10T02:27:29.479Z</updated>
-  <id>https://Langery-stone.github.io/</id>
+  <id>https://Langery.github.io/</id>
   
   <author>
     <name>Langery</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My essays</title>
-    <link href="https://Langery-stone.github.io/2019/11/10/essays/"/>
-    <id>https://Langery-stone.github.io/2019/11/10/essays/</id>
+    <link href="https://Langery.github.io/2019/11/10/essays/"/>
+    <id>https://Langery.github.io/2019/11/10/essays/</id>
     <published>2019-11-10T07:07:01.000Z</published>
     <updated>2020-08-10T02:27:29.479Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://Langery-stone.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://Langery.github.io/categories/Essay/"/>
     
     
-      <category term="essay" scheme="https://Langery-stone.github.io/tags/essay/"/>
+      <category term="essay" scheme="https://Langery.github.io/tags/essay/"/>
     
   </entry>
   
   <entry>
     <title>关于最近的一些反思</title>
-    <link href="https://Langery-stone.github.io/2019/09/28/reflect/"/>
-    <id>https://Langery-stone.github.io/2019/09/28/reflect/</id>
+    <link href="https://Langery.github.io/2019/09/28/reflect/"/>
+    <id>https://Langery.github.io/2019/09/28/reflect/</id>
     <published>2019-09-28T14:03:27.000Z</published>
     <updated>2020-08-10T02:27:29.479Z</updated>
     
@@ -53,17 +53,17 @@
     
     </summary>
     
-      <category term="札记" scheme="https://Langery-stone.github.io/categories/%E6%9C%AD%E8%AE%B0/"/>
+      <category term="札记" scheme="https://Langery.github.io/categories/%E6%9C%AD%E8%AE%B0/"/>
     
     
-      <category term="Informal Essay" scheme="https://Langery-stone.github.io/tags/Informal-Essay/"/>
+      <category term="Informal Essay" scheme="https://Langery.github.io/tags/Informal-Essay/"/>
     
   </entry>
   
   <entry>
     <title>D3.js 笔记总结</title>
-    <link href="https://Langery-stone.github.io/2019/08/01/D3-Note/"/>
-    <id>https://Langery-stone.github.io/2019/08/01/D3-Note/</id>
+    <link href="https://Langery.github.io/2019/08/01/D3-Note/"/>
+    <id>https://Langery.github.io/2019/08/01/D3-Note/</id>
     <published>2019-08-01T02:18:45.000Z</published>
     <updated>2020-08-10T02:27:29.474Z</updated>
     
@@ -75,19 +75,19 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Work Notes" scheme="https://Langery-stone.github.io/tags/Work-Notes/"/>
+      <category term="Work Notes" scheme="https://Langery.github.io/tags/Work-Notes/"/>
     
   </entry>
   
   <entry>
     <title>工作总结(二)</title>
-    <link href="https://Langery-stone.github.io/2019/07/02/Work-Note02/"/>
-    <id>https://Langery-stone.github.io/2019/07/02/Work-Note02/</id>
+    <link href="https://Langery.github.io/2019/07/02/Work-Note02/"/>
+    <id>https://Langery.github.io/2019/07/02/Work-Note02/</id>
     <published>2019-07-02T13:33:24.000Z</published>
     <updated>2020-08-10T02:27:29.478Z</updated>
     
@@ -100,21 +100,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Work Notes" scheme="https://Langery-stone.github.io/tags/Work-Notes/"/>
+      <category term="Work Notes" scheme="https://Langery.github.io/tags/Work-Notes/"/>
     
-      <category term="vue" scheme="https://Langery-stone.github.io/tags/vue/"/>
+      <category term="vue" scheme="https://Langery.github.io/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>个人简历制作</title>
-    <link href="https://Langery-stone.github.io/2019/04/14/Curriculum-vitae/"/>
-    <id>https://Langery-stone.github.io/2019/04/14/Curriculum-vitae/</id>
+    <link href="https://Langery.github.io/2019/04/14/Curriculum-vitae/"/>
+    <id>https://Langery.github.io/2019/04/14/Curriculum-vitae/</id>
     <published>2019-04-14T04:00:13.000Z</published>
     <updated>2020-08-10T02:27:29.474Z</updated>
     
@@ -126,19 +126,19 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="DIY" scheme="https://Langery-stone.github.io/tags/DIY/"/>
+      <category term="DIY" scheme="https://Langery.github.io/tags/DIY/"/>
     
-      <category term="PhotoShop" scheme="https://Langery-stone.github.io/tags/PhotoShop/"/>
+      <category term="PhotoShop" scheme="https://Langery.github.io/tags/PhotoShop/"/>
     
   </entry>
   
   <entry>
     <title>微信小程序笔记</title>
-    <link href="https://Langery-stone.github.io/2019/01/31/weChat/"/>
-    <id>https://Langery-stone.github.io/2019/01/31/weChat/</id>
+    <link href="https://Langery.github.io/2019/01/31/weChat/"/>
+    <id>https://Langery.github.io/2019/01/31/weChat/</id>
     <published>2019-01-31T03:23:34.000Z</published>
     <updated>2020-08-10T02:27:29.480Z</updated>
     
@@ -150,21 +150,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
-      <category term="WeChat" scheme="https://Langery-stone.github.io/tags/WeChat/"/>
+      <category term="WeChat" scheme="https://Langery.github.io/tags/WeChat/"/>
     
   </entry>
   
   <entry>
     <title>Hexo优化笔记</title>
-    <link href="https://Langery-stone.github.io/2019/01/22/hexo-style/"/>
-    <id>https://Langery-stone.github.io/2019/01/22/hexo-style/</id>
+    <link href="https://Langery.github.io/2019/01/22/hexo-style/"/>
+    <id>https://Langery.github.io/2019/01/22/hexo-style/</id>
     <published>2019-01-22T11:24:26.000Z</published>
     <updated>2020-08-10T02:27:29.479Z</updated>
     
@@ -176,17 +176,17 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
   </entry>
   
   <entry>
     <title>Node-Note01</title>
-    <link href="https://Langery-stone.github.io/2018/12/26/Node-Note01/"/>
-    <id>https://Langery-stone.github.io/2018/12/26/Node-Note01/</id>
+    <link href="https://Langery.github.io/2018/12/26/Node-Note01/"/>
+    <id>https://Langery.github.io/2018/12/26/Node-Note01/</id>
     <published>2018-12-26T14:47:44.000Z</published>
     <updated>2020-08-10T02:27:29.475Z</updated>
     
@@ -198,19 +198,19 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="NodeJS" scheme="https://Langery-stone.github.io/tags/NodeJS/"/>
+      <category term="NodeJS" scheme="https://Langery.github.io/tags/NodeJS/"/>
     
   </entry>
   
   <entry>
     <title>建筑笔记</title>
-    <link href="https://Langery-stone.github.io/2018/12/09/Architectural-Notes01/"/>
-    <id>https://Langery-stone.github.io/2018/12/09/Architectural-Notes01/</id>
+    <link href="https://Langery.github.io/2018/12/09/Architectural-Notes01/"/>
+    <id>https://Langery.github.io/2018/12/09/Architectural-Notes01/</id>
     <published>2018-12-09T11:59:16.000Z</published>
     <updated>2020-08-10T02:27:29.472Z</updated>
     
@@ -222,19 +222,19 @@
     
     </summary>
     
-      <category term="札记" scheme="https://Langery-stone.github.io/categories/%E6%9C%AD%E8%AE%B0/"/>
+      <category term="札记" scheme="https://Langery.github.io/categories/%E6%9C%AD%E8%AE%B0/"/>
     
     
-      <category term="Architectural" scheme="https://Langery-stone.github.io/tags/Architectural/"/>
+      <category term="Architectural" scheme="https://Langery.github.io/tags/Architectural/"/>
     
-      <category term="Informal Essay" scheme="https://Langery-stone.github.io/tags/Informal-Essay/"/>
+      <category term="Informal Essay" scheme="https://Langery.github.io/tags/Informal-Essay/"/>
     
   </entry>
   
   <entry>
     <title>工作总结(一)</title>
-    <link href="https://Langery-stone.github.io/2018/12/06/Work-Note01/"/>
-    <id>https://Langery-stone.github.io/2018/12/06/Work-Note01/</id>
+    <link href="https://Langery.github.io/2018/12/06/Work-Note01/"/>
+    <id>https://Langery.github.io/2018/12/06/Work-Note01/</id>
     <published>2018-12-06T07:38:26.000Z</published>
     <updated>2020-08-31T08:05:14.551Z</updated>
     
@@ -246,23 +246,23 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Work Notes" scheme="https://Langery-stone.github.io/tags/Work-Notes/"/>
+      <category term="Work Notes" scheme="https://Langery.github.io/tags/Work-Notes/"/>
     
-      <category term="vue" scheme="https://Langery-stone.github.io/tags/vue/"/>
+      <category term="vue" scheme="https://Langery.github.io/tags/vue/"/>
     
-      <category term="华夏" scheme="https://Langery-stone.github.io/tags/%E5%8D%8E%E5%A4%8F/"/>
+      <category term="华夏" scheme="https://Langery.github.io/tags/%E5%8D%8E%E5%A4%8F/"/>
     
   </entry>
   
   <entry>
     <title>图片上传行不行？？</title>
-    <link href="https://Langery-stone.github.io/2018/11/09/text-to-UpImg/"/>
-    <id>https://Langery-stone.github.io/2018/11/09/text-to-UpImg/</id>
+    <link href="https://Langery.github.io/2018/11/09/text-to-UpImg/"/>
+    <id>https://Langery.github.io/2018/11/09/text-to-UpImg/</id>
     <published>2018-11-09T04:51:35.000Z</published>
     <updated>2020-08-10T02:27:29.479Z</updated>
     
@@ -274,19 +274,19 @@
     
     </summary>
     
-      <category term="Testing" scheme="https://Langery-stone.github.io/categories/Testing/"/>
+      <category term="Testing" scheme="https://Langery.github.io/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="https://Langery-stone.github.io/tags/Testing/"/>
+      <category term="Testing" scheme="https://Langery.github.io/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="https://Langery-stone.github.io/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="https://Langery.github.io/tags/Another-Tag/"/>
     
   </entry>
   
   <entry>
     <title>Hexo由回归啦啦啦~~~</title>
-    <link href="https://Langery-stone.github.io/2018/08/27/happy/"/>
-    <id>https://Langery-stone.github.io/2018/08/27/happy/</id>
+    <link href="https://Langery.github.io/2018/08/27/happy/"/>
+    <id>https://Langery.github.io/2018/08/27/happy/</id>
     <published>2018-08-27T11:54:27.000Z</published>
     <updated>2020-08-10T02:27:29.479Z</updated>
     
@@ -298,17 +298,17 @@
     
     </summary>
     
-      <category term="札记" scheme="https://Langery-stone.github.io/categories/%E6%9C%AD%E8%AE%B0/"/>
+      <category term="札记" scheme="https://Langery.github.io/categories/%E6%9C%AD%E8%AE%B0/"/>
     
     
-      <category term="Informal Essay" scheme="https://Langery-stone.github.io/tags/Informal-Essay/"/>
+      <category term="Informal Essay" scheme="https://Langery.github.io/tags/Informal-Essay/"/>
     
   </entry>
   
   <entry>
     <title>koa学习笔记</title>
-    <link href="https://Langery-stone.github.io/2018/04/27/koa/"/>
-    <id>https://Langery-stone.github.io/2018/04/27/koa/</id>
+    <link href="https://Langery.github.io/2018/04/27/koa/"/>
+    <id>https://Langery.github.io/2018/04/27/koa/</id>
     <published>2018-04-27T04:28:21.000Z</published>
     <updated>2020-08-10T02:27:29.479Z</updated>
     
@@ -320,21 +320,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Reading Notes" scheme="https://Langery-stone.github.io/tags/Reading-Notes/"/>
+      <category term="Reading Notes" scheme="https://Langery.github.io/tags/Reading-Notes/"/>
     
-      <category term="Code Notes" scheme="https://Langery-stone.github.io/tags/Code-Notes/"/>
+      <category term="Code Notes" scheme="https://Langery.github.io/tags/Code-Notes/"/>
     
   </entry>
   
   <entry>
     <title>Angular学习笔记整理</title>
-    <link href="https://Langery-stone.github.io/2018/03/31/angular/"/>
-    <id>https://Langery-stone.github.io/2018/03/31/angular/</id>
+    <link href="https://Langery.github.io/2018/03/31/angular/"/>
+    <id>https://Langery.github.io/2018/03/31/angular/</id>
     <published>2018-03-31T01:54:14.000Z</published>
     <updated>2020-08-10T02:27:29.478Z</updated>
     
@@ -346,21 +346,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
-      <category term="Environmental deployment" scheme="https://Langery-stone.github.io/tags/Environmental-deployment/"/>
+      <category term="Environmental deployment" scheme="https://Langery.github.io/tags/Environmental-deployment/"/>
     
   </entry>
   
   <entry>
     <title>SQL学习笔记(二)————逻辑结构</title>
-    <link href="https://Langery-stone.github.io/2018/01/02/SQL-02/"/>
-    <id>https://Langery-stone.github.io/2018/01/02/SQL-02/</id>
+    <link href="https://Langery.github.io/2018/01/02/SQL-02/"/>
+    <id>https://Langery.github.io/2018/01/02/SQL-02/</id>
     <published>2018-01-02T02:58:17.000Z</published>
     <updated>2020-08-10T02:27:29.475Z</updated>
     
@@ -372,21 +372,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal Essay" scheme="https://Langery-stone.github.io/tags/Informal-Essay/"/>
+      <category term="Informal Essay" scheme="https://Langery.github.io/tags/Informal-Essay/"/>
     
-      <category term="SQL Notes" scheme="https://Langery-stone.github.io/tags/SQL-Notes/"/>
+      <category term="SQL Notes" scheme="https://Langery.github.io/tags/SQL-Notes/"/>
     
   </entry>
   
   <entry>
     <title>Ajax数据交互问题整理</title>
-    <link href="https://Langery-stone.github.io/2017/12/13/Ajax/"/>
-    <id>https://Langery-stone.github.io/2017/12/13/Ajax/</id>
+    <link href="https://Langery.github.io/2017/12/13/Ajax/"/>
+    <id>https://Langery.github.io/2017/12/13/Ajax/</id>
     <published>2017-12-13T02:06:49.000Z</published>
     <updated>2020-08-10T02:27:29.472Z</updated>
     
@@ -398,19 +398,19 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
   </entry>
   
   <entry>
     <title>SQL学习笔记(一)————基础语法</title>
-    <link href="https://Langery-stone.github.io/2017/11/29/SQL-01/"/>
-    <id>https://Langery-stone.github.io/2017/11/29/SQL-01/</id>
+    <link href="https://Langery.github.io/2017/11/29/SQL-01/"/>
+    <id>https://Langery.github.io/2017/11/29/SQL-01/</id>
     <published>2017-11-29T05:51:01.000Z</published>
     <updated>2020-08-10T02:27:29.475Z</updated>
     
@@ -422,21 +422,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal Essay" scheme="https://Langery-stone.github.io/tags/Informal-Essay/"/>
+      <category term="Informal Essay" scheme="https://Langery.github.io/tags/Informal-Essay/"/>
     
-      <category term="SQL Notes" scheme="https://Langery-stone.github.io/tags/SQL-Notes/"/>
+      <category term="SQL Notes" scheme="https://Langery.github.io/tags/SQL-Notes/"/>
     
   </entry>
   
   <entry>
     <title>React学习笔记整理</title>
-    <link href="https://Langery-stone.github.io/2017/11/29/React/"/>
-    <id>https://Langery-stone.github.io/2017/11/29/React/</id>
+    <link href="https://Langery.github.io/2017/11/29/React/"/>
+    <id>https://Langery.github.io/2017/11/29/React/</id>
     <published>2017-11-29T05:29:50.000Z</published>
     <updated>2020-08-10T02:27:29.475Z</updated>
     
@@ -448,21 +448,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
-      <category term="Environmental deployment" scheme="https://Langery-stone.github.io/tags/Environmental-deployment/"/>
+      <category term="Environmental deployment" scheme="https://Langery.github.io/tags/Environmental-deployment/"/>
     
   </entry>
   
   <entry>
     <title>JavaScript笔记整理</title>
-    <link href="https://Langery-stone.github.io/2017/11/22/JavaScript/"/>
-    <id>https://Langery-stone.github.io/2017/11/22/JavaScript/</id>
+    <link href="https://Langery.github.io/2017/11/22/JavaScript/"/>
+    <id>https://Langery.github.io/2017/11/22/JavaScript/</id>
     <published>2017-11-22T08:29:38.000Z</published>
     <updated>2020-08-10T02:27:29.475Z</updated>
     
@@ -474,23 +474,23 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal Essay" scheme="https://Langery-stone.github.io/tags/Informal-Essay/"/>
+      <category term="Informal Essay" scheme="https://Langery.github.io/tags/Informal-Essay/"/>
     
-      <category term="JavaScript" scheme="https://Langery-stone.github.io/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://Langery.github.io/tags/JavaScript/"/>
     
-      <category term="JQuery" scheme="https://Langery-stone.github.io/tags/JQuery/"/>
+      <category term="JQuery" scheme="https://Langery.github.io/tags/JQuery/"/>
     
   </entry>
   
   <entry>
     <title>Vue环境搭建</title>
-    <link href="https://Langery-stone.github.io/2017/11/16/Vue%E6%90%AD%E5%BB%BA/"/>
-    <id>https://Langery-stone.github.io/2017/11/16/Vue搭建/</id>
+    <link href="https://Langery.github.io/2017/11/16/Vue%E6%90%AD%E5%BB%BA/"/>
+    <id>https://Langery.github.io/2017/11/16/Vue搭建/</id>
     <published>2017-11-16T06:53:20.000Z</published>
     <updated>2020-08-10T02:27:29.476Z</updated>
     
@@ -502,23 +502,23 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
-      <category term="Environmental deployment" scheme="https://Langery-stone.github.io/tags/Environmental-deployment/"/>
+      <category term="Environmental deployment" scheme="https://Langery.github.io/tags/Environmental-deployment/"/>
     
-      <category term="vue" scheme="https://Langery-stone.github.io/tags/vue/"/>
+      <category term="vue" scheme="https://Langery.github.io/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>Bootstrap学习笔记整理</title>
-    <link href="https://Langery-stone.github.io/2017/10/25/Bootstrap/"/>
-    <id>https://Langery-stone.github.io/2017/10/25/Bootstrap/</id>
+    <link href="https://Langery.github.io/2017/10/25/Bootstrap/"/>
+    <id>https://Langery.github.io/2017/10/25/Bootstrap/</id>
     <published>2017-10-25T02:06:22.000Z</published>
     <updated>2020-08-10T02:27:29.474Z</updated>
     
@@ -530,17 +530,17 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
   </entry>
   
   <entry>
     <title>Hexo随笔(不定时更新)</title>
-    <link href="https://Langery-stone.github.io/2017/10/21/Hexo/"/>
-    <id>https://Langery-stone.github.io/2017/10/21/Hexo/</id>
+    <link href="https://Langery.github.io/2017/10/21/Hexo/"/>
+    <id>https://Langery.github.io/2017/10/21/Hexo/</id>
     <published>2017-10-21T06:01:45.000Z</published>
     <updated>2020-08-10T02:27:29.474Z</updated>
     
@@ -552,21 +552,21 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
-      <category term="Informal essay" scheme="https://Langery-stone.github.io/tags/Informal-essay/"/>
+      <category term="Informal essay" scheme="https://Langery.github.io/tags/Informal-essay/"/>
     
-      <category term="Environmental deployment" scheme="https://Langery-stone.github.io/tags/Environmental-deployment/"/>
+      <category term="Environmental deployment" scheme="https://Langery.github.io/tags/Environmental-deployment/"/>
     
   </entry>
   
   <entry>
     <title>MarkDown 语法学习笔记</title>
-    <link href="https://Langery-stone.github.io/2017/10/21/MarkDown/"/>
-    <id>https://Langery-stone.github.io/2017/10/21/MarkDown/</id>
+    <link href="https://Langery.github.io/2017/10/21/MarkDown/"/>
+    <id>https://Langery.github.io/2017/10/21/MarkDown/</id>
     <published>2017-10-21T00:26:31.000Z</published>
     <updated>2020-08-10T02:27:29.475Z</updated>
     
@@ -578,17 +578,17 @@
     
     </summary>
     
-      <category term="笔记" scheme="https://Langery-stone.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://Langery.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Learning Notes" scheme="https://Langery-stone.github.io/tags/Learning-Notes/"/>
+      <category term="Learning Notes" scheme="https://Langery.github.io/tags/Learning-Notes/"/>
     
   </entry>
   
   <entry>
     <title>Draft copy</title>
-    <link href="https://Langery-stone.github.io/2017/10/18/Text/"/>
-    <id>https://Langery-stone.github.io/2017/10/18/Text/</id>
+    <link href="https://Langery.github.io/2017/10/18/Text/"/>
+    <id>https://Langery.github.io/2017/10/18/Text/</id>
     <published>2017-10-18T06:04:13.000Z</published>
     <updated>2020-08-10T02:27:29.476Z</updated>
     
@@ -600,12 +600,12 @@
     
     </summary>
     
-      <category term="Testing" scheme="https://Langery-stone.github.io/categories/Testing/"/>
+      <category term="Testing" scheme="https://Langery.github.io/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="https://Langery-stone.github.io/tags/Testing/"/>
+      <category term="Testing" scheme="https://Langery.github.io/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="https://Langery-stone.github.io/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="https://Langery.github.io/tags/Another-Tag/"/>
     
   </entry>
   
